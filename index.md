@@ -6,3 +6,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+<div class="someclass" id="someid" markdown="1">
+    # markdown?
+</div>
+
+<div class="someclass" id="someid" markdown="0">
+    # markdown?
+</div>
