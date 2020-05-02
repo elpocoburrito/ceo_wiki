@@ -1,2 +1,0 @@
-# Welcome to the PotasticPanda-MC-Server wiki!
-Here, you will find information about the rules and guidelines, tips and tricks you could find useful, lists of commands you can use and explanation of the various plugins and systems in place. This is a work in progress and issues can be common!
