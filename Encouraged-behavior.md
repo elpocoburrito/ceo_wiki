@@ -1,0 +1,7 @@
+## Encouraged behavior!
+On this server, most people consider themselves and the other player as a friendly comunity where they can meet and interact with nice people. Nice and friendly behavior goes a long way into making the server enjoyable for everyone. Here is examples of what we like seeing on the server:
+- Support and help in the chat. It's way more fun for everyone when issues can be fixed through a few quick messages in global chat, helping a newer player with unfamiliar commands etc.
+- Creating parties with other players to create amazing stuff as a group. Many of us found here friends they quickly found themselves comfortable with, even the ones that are normally shy. And through that, we managed to create many great things while having fun!
+- Giving suggestion about fixes and improvements that can be implemented to the staff. The number of staff that is able to implement them is limited (we are currently 3 with enough knowledge to fix issues on the server side and we have work outside of this server too). For this reason, things might take time to be fixed, but I assure you that we are working hard.
+
+When staff members see players being particularly helpful, creating great stuff or simply nice and friendly, we will sometime gives rewards as we see fit. It can take quite many forms, be it building materials, gear, items and much more. If you want to create something but face limitations (ex: not having enough blocks you are allowed to claim) we can give you more if we think the reason for it make sense.
