@@ -27,7 +27,8 @@ github_username: rockbyo5
 
 collections:
   faqs:
-    faq: true
+    output: true
+  info:
     output: true
 
 
