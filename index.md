@@ -4,12 +4,12 @@
 
 layout: home
 ---
-<h1>Frequently asked questions</h1>
+<h1>Frequently asked questions:</h1>
 {% for faq in site.faqs %}
   <h2><a href="{{ faq.url }}">- {{ faq.question }}</a></h2>
 {% endfor %}
 
-<h1>Useful informations</h1>
+<h1>Useful informations:</h1>
 {% for info in site.info %}
   <h2><a href="{{ info.url }}">- {{ info.title }}</a></h2>
 {% endfor %}
