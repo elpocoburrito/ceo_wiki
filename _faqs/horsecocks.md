@@ -1,5 +1,5 @@
 ---
-question: My character and/or NPCs have massive badonkadonks! What do i do!?!
+question: My character and/or NPCs have massive badonkadonk sticks! What do i do!?!
 layout: faq
 ---
 
