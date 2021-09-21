@@ -2,7 +2,7 @@
 title: "Mod recommendations"
 layout: info
 ---
-### WIP - Incomplete page
+## **WIP - Incomplete page**
 ## Here are listed mods (and tips) that i would recommend for a stable Skyrim SE with OStim/OSex content.
 For the record, those are my (ElPocoBurrito) recommendations. You may agree, you may disagree. I am open to suggestions, comments and critiques.
 
@@ -12,7 +12,7 @@ I will include a section with mods which are more opinionated at the end for wha
 
 First and biggest tip: Use a mod manager; to be more exact, use Mod Organiser 2. This will save you headaches.
 
-**----------------------------------------------**
+**--------------------------------------------------------------------------------------------**
 
 **[Legend]**
 
@@ -22,7 +22,7 @@ First and biggest tip: Use a mod manager; to be more exact, use Mod Organiser 2.
 
 **[+++]** - Not mandatory but super highly recommended
 
-**----------------------------------------------**
+**--------------------------------------------------------------------------------------------**
 
 ## Recommended mods
 
@@ -36,6 +36,7 @@ A massive amount of meshes which will make your game look much better. Its one o
 Similar to SMIM, but also touches textures. Great project.
 
 **Bug Fixes SSE [+++]** <https://www.nexusmods.com/skyrimspecialedition/mods/33261>
+
 **SSE Engine Fixes [+++]** <https://www.nexusmods.com/skyrimspecialedition/mods/17230>
 
 Both those 2 mods target the same kind of niche: fixing bugs that have long plagued Skyrim, including many bugs that affect modded Skyrim even harder than vanilla. I recommend to use both, they have some overlap but were developped to not conflict with one another. Highly recommend those 2 mods.
