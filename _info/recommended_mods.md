@@ -36,8 +36,8 @@ A massive amount of meshes which will make your game look much better. Its one o
 Similar to SMIM, but also touches textures. Great project.
 
 **Bug Fixes SSE [+++]** <https://www.nexusmods.com/skyrimspecialedition/mods/33261>
+**SSE Engine Fixes [+++]** <https://www.nexusmods.com/skyrimspecialedition/mods/17230>
 
-**SSE Engine Fixes [+++]*** <https://www.nexusmods.com/skyrimspecialedition/mods/17230>
 Both those 2 mods target the same kind of niche: fixing bugs that have long plagued Skyrim, including many bugs that affect modded Skyrim even harder than vanilla. I recommend to use both, they have some overlap but were developped to not conflict with one another. Highly recommend those 2 mods.
 
 **SSE Display Tweaks [+++]** <https://www.nexusmods.com/skyrimspecialedition/mods/34705>
@@ -55,7 +55,7 @@ If you're looking for a good looking ENB + Weather mod setup, this is what i fou
 
 Definitely very fantasy/vivid looking setup:
 
-**PI-CHO ENB [Azurite preset]** <https://www.nexusmods.com/skyrimspecialedition/mods/35082?tab=description>
+**PI-CHO ENB [Azurite preset]** <https://www.nexusmods.com/skyrimspecialedition/mods/35082>
 
 **Azurite Weathers** <https://www.nexusmods.com/skyrimspecialedition/mods/42731>
 
